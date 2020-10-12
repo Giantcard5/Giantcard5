@@ -23,8 +23,8 @@ Estudante do Ensino Médio, Conhecimento basico em Pentest, Atualmente estou Est
 
 ## 🎯 **Objetivo Atual:**
 
-
-- Disponivel para oportunidades de **Desenvolvedor Front End JR**
+- Disponivel para teste de **Vunerabilidades em sistemas Web**.
+- Disponivel para oportunidades de **Desenvolvedor Front End JR**.
 
 ---
 
