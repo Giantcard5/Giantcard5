@@ -32,5 +32,5 @@ Sou formado em CST Análise e Desenvolvimento de Sistemas pela FMU (2020), tenho
 
 ---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lucas0019)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas0019&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Giantcard5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giantcard5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
