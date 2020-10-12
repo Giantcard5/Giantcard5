@@ -1,5 +1,7 @@
 ![Giantcard5 GitHub Stats](https://github-readme-stats.vercel.app/api?username=giantcard5&show_icons=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
 <!--
 <a target="_blank" href="https://www.linkedin.com/in/renato-soares-b5019a1b9//">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
