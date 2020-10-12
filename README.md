@@ -19,6 +19,9 @@ Estudante do Ensino Médio, Conhecimento basico em Pentest, Atualmente estou Est
 
 🖥 **Estudarei em breve**
 
+- C
+- C++
+
 </center>
 
 ## 🎯 **Objetivo Atual:**
