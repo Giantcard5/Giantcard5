@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Giantcard5 GitHub Stats](https://github-readme-stats.vercel.app/api?username=giantcard5&show_icons=true)
 
 Here are some ideas to get you started:
 
