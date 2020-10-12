@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium">
 </a>
 
-### Olá , Meu Nome é Lucas Xavier 🖖
+### Olá , Meu Nome é Renato Soares 🖖
 
 Sou formado em CST Análise e Desenvolvimento de Sistemas pela FMU (2020), tenho conhecimento basico em SCRUM, Atualmente estou Estudando Desenvolvimento Web com foco em Front End pela **[Origamid](https://www.origamid.com/)** & **[Cod3r](https://www.udemy.com/course/curso-web/?utm_source=adwords&utm_medium=udemyads&utm_campaign=INTL-AW-PROS-Brazil-DSA-WebIndex&utm_content=deal4584&utm_term=_._ag_110792056508_._ad_440430986861_._de_c_._dm__._pl__._ti_dsa-525138004927_._li_1031811_._pd__._)**
 
@@ -18,22 +18,17 @@ Sou formado em CST Análise e Desenvolvimento de Sistemas pela FMU (2020), tenho
 
 📌 **Estudando atualmente:**
 
-<img src="/icons-readme/html.png"><img src="/icons-readme/css.png"><img src="/icons-readme/javascript.png"><img src="/icons-readme/adobexd.png"><img src="/icons-readme/figma.png"><img src="/icons-readme/nodejs.png"><img src="/icons-readme/OS_Linux_23399.png"><img src="/icons-readme/git.png">
-
-- Básico de UI/UX
-- API REST & RESTful
+- Pentest Web
+- NodeJS
 
 🖥 **Estudarei em breve**
-
-<img src="/icons-readme/typescript.png"><img src="/icons-readme/bootstrap.png"><img src="/icons-readme/sass.png"><img src="/icons-readme/react.png"><img src="/icons-readme/vue.png"><img src="/icons-readme/jest.png">
 
 </center>
 
 ## 🎯 **Objetivo Atual:**
 
-Estudar e praticar com as tecnologias do ecossistema do Javascript e com foco principal no Desenvolvimento Front End a fim de montar meu portfólio e de engarjar no mercado de trabalho e poder colaborar com a comunidade.
 
-- Disponivel para oportunidades de **Desenvolvedor Front End jr**
+- Disponivel para oportunidades de **Desenvolvedor Front End JR**
 
 ---
 
