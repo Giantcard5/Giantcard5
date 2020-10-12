@@ -1,14 +1,12 @@
 ![Giantcard5 GitHub Stats](https://github-readme-stats.vercel.app/api?username=giantcard5&show_icons=true)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
+<!--
 <a target="_blank" href="https://www.linkedin.com/in/renato-soares-b5019a1b9//">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/giantcard5/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a> --!>
 
 
 Here are some ideas to get you started:
