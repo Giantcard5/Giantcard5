@@ -1,11 +1,9 @@
-![GitHub followers](https://img.shields.io/github/followers/Lucas0019?style=social)
+
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas_Xavier-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/LucasXavier/)](https://www.linkedin.com/in/lucas-xavier-77a49915b/)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsxavier.00@gmail.com)](mailto:lsxavier.00@gmail.com)
-<a href="https://www.instagram.com/xav_lucass/" target="_blank">
+
+
+<a href="https://www.instagram.com/giantcard5/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-<a href="https://medium.com/@lucas0019" target="_blank">
-<img src="https://img.shields.io/badge/medium-black?&style=flat-square&logo=medium&logoColor=white" alt="medium">
 </a>
 
 ### Olá , Meu Nome é Renato Soares 🖖
