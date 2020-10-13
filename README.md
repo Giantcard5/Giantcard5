@@ -4,14 +4,14 @@
     <img src="https://i.pinimg.com/originals/48/9c/b3/489cb3de6b04e534e52f53b4252b0851.jpg" width="px">
         <br><br>
         <samp>
-        🖤 Olá, Eu sou um Desenvolvedor.
+        • Olá, Eu sou um Desenvolvedor. 🖤
     </samp> 
 </p>
 
 <!-- ABOUT OF ME -->
 
 <p align="center" style="text-align: center;">
-    Olá , Meu Nome é Renato Soares 🖤
+    • Olá , Meu Nome é Renato Soares. 🖤
 </p>	
 
 
@@ -23,11 +23,12 @@
 
 <p align="center" style="text-align: center;">
     Estudando Atualmente:
-    <strong> ― Pentest Web </strong>
         <br>
-    <strong> ― NodeJS </strong>
+    <strong> • Pentest Web </strong>
         <br>
-    <strong> ― Python </strong>
+    <strong> • NodeJS </strong>
+        <br>
+    <strong> • Python </strong>
 </p>
 
 
@@ -37,7 +38,7 @@
     <p align="center">
         "Que seu trabalho seja perfeito para que, mesmo depois de sua morte, permaneça."
     <br>
-        <strong> ― Leonardo da Vinci </strong>
+        <strong> • Leonardo da Vinci </strong>
     </p>
 <br>
 
