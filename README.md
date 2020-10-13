@@ -2,15 +2,16 @@
 
 <p align="center">
     <img src="https://i.pinimg.com/originals/48/9c/b3/489cb3de6b04e534e52f53b4252b0851.jpg" width="px">
-        <br><br>
-        <samp>
-        • Olá, Eu sou um Desenvolvedor. 🖤
-    </samp> 
-    <br><br>
-    • Olá , Meu Nome é Renato Soares. 🖤
+        <br><br>      
+    • Olá, Eu sou um Desenvolvedor. 🖤
 </p>
 
 <!-- ABOUT OF ME -->
+
+<p align="center" style="text-align: center;">
+    • Olá , Meu Nome é Renato Soares. 🖤
+</p>	
+
 
 <p align="center" style="text-align: center;">
     Estudante do Ensino Médio, Conhecimento basico em Pentest, Atualmente estou Estudando Desenvolvimento Web com foco em Back End pela: <a href="https://www.origamid.com/"><strong>Origamid</strong></a> & <a href="https://app.rocketseat.com.br/starter"><strong>Rocketseat</strong></a>
