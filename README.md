@@ -24,9 +24,12 @@
 <p align="center" style="text-align: center;">
     Estudando Atualmente:
     <strong> ― Pentest Web </strong>
+        <br>
     <strong> ― NodeJS </strong>
+        <br>
     <strong> ― Python </strong>
 </p>
+
 
 <!-- QUOTE -->
 
@@ -34,7 +37,7 @@
     <p align="center">
         "Que seu trabalho seja perfeito para que, mesmo depois de sua morte, permaneça."
     <br>
-        ― Leonardo da Vinci
+        <strong> ― Leonardo da Vinci </strong>
     </p>
 <br>
 
