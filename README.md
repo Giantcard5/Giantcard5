@@ -19,6 +19,15 @@
     Estudante do Ensino Médio, Conhecimento basico em Pentest, Atualmente estou Estudando Desenvolvimento Web com foco em Back End pela: <a href="https://www.origamid.com/"><strong>Origamid</strong></a> & <a href="https://app.rocketseat.com.br/starter"><strong>Rocketseat</strong></a>
 </p>
 
+<!-- Studying -->
+
+<p align="center" style="text-align: center;">
+    Estudando Atualmente:
+    <strong> ― Pentest Web </strong>
+    <strong> ― NodeJS </strong>
+    <strong> ― Python </strong>
+</p>
+
 <!-- QUOTE -->
 
 <br>
@@ -38,28 +47,9 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Giantcard5&show_icons=true" alt="Giantcard5"/>
 </p>
 
----
-
-<center>
-
-📌 **Estudando atualmente:**
-
-- Pentest Web
-- NodeJS
-
-🖥 **Estudarei em breve**
-
-- C
-- C++
-
-</center>
-
-## 🎯 **Objetivo Atual:**
-
-- Disponivel para teste de **Vunerabilidades em sistemas Web**.
-- Disponivel para oportunidades de **Desenvolvedor Front End JR**.
-
----
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Giantcard5)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Giantcard5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <a href="https://codepen.io/Giantcard5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Giantcard5" height="20" width="20" /></a>
+    <a href="https://twitter.com/Giantcard5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Giantcard5" height="20" width="20" /></a>
+    <a href="https://www.linkedin.com/in/renato-soares-b5019a1b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Giantcard5" height="20" width="20" /></a>
+    <a href="https://instagram.com/Giantcard5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Giantcard5" height="20" width="20" /></a>
+</p>
