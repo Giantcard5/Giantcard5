@@ -9,7 +9,7 @@
 ### Olá , Meu Nome é Renato Soares 🖤
 
 <p align="center" style="text-align: center;">
-    Estudante do Ensino Médio, Conhecimento basico em Pentest, Atualmente estou Estudando Desenvolvimento Web com foco em Back End pela: <a href="https://www.origamid.com/">Origamid</a> & <a href="https://app.rocketseat.com.br/starter">Rocketseat</a>
+    Estudante do Ensino Médio, Conhecimento basico em Pentest, Atualmente estou Estudando Desenvolvimento Web com foco em Back End pela: <a href="https://www.origamid.com/"><strong>Origamid</strong></a> & <a href="https://app.rocketseat.com.br/starter"><strong>Rocketseat</strong></a>
 </p>
 
 
