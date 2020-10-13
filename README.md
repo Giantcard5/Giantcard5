@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/originals/70/d6/b3/70d6b3aaf2857dce05601505b8ca7db0.jpg" alt="Developer">
+
 [![Linkedin Badge](https://img.shields.io/badge/-Renato_Soares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RenatoSoares/)](https://www.linkedin.com/in/renato-soares-b5019a1b9/)
 
 <a href="https://www.instagram.com/giantcard5/" target="_blank">
