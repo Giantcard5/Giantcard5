@@ -1,4 +1,4 @@
-img src="https://i.pinimg.com/originals/48/9c/b3/489cb3de6b04e534e52f53b4252b0851.jpg" alt="Developer">
+<img src="https://i.pinimg.com/originals/48/9c/b3/489cb3de6b04e534e52f53b4252b0851.jpg" alt="Developer">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Renato_Soares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RenatoSoares/)](https://www.linkedin.com/in/renato-soares-b5019a1b9/)
 
