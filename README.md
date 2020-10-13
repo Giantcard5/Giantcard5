@@ -6,15 +6,12 @@
     </samp> 
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Renato_Soares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/RenatoSoares/)](https://www.linkedin.com/in/renato-soares-b5019a1b9/)
-
-<a href="https://www.instagram.com/giantcard5/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
 ### Olá , Meu Nome é Renato Soares 🖤
 
-Estudante do Ensino Médio, Conhecimento basico em Pentest, Atualmente estou Estudando Desenvolvimento Web com foco em Back End pela **[Origamid](https://www.origamid.com/)** & **[Rocketseat](https://app.rocketseat.com.br/starter)**
+<p align="center" style="text-align: center;">
+    Estudante do Ensino Médio, Conhecimento basico em Pentest, Atualmente estou Estudando Desenvolvimento Web com foco em Back End pela: <a href="https://www.origamid.com/">Origamid</a> & <a href="https://app.rocketseat.com.br/starter">Rocketseat</a>
+</p>
+
 
 ---
 
