@@ -3,18 +3,13 @@
 <p align="center">
     <img src="https://i.pinimg.com/originals/48/9c/b3/489cb3de6b04e534e52f53b4252b0851.jpg" width="px">
         <br><br>      
-    • Olá, Eu sou um Desenvolvedor. 🖤
+    🖤 Olá, Eu sou um Desenvolvedor.
 </p>
 
 <!-- ABOUT OF ME -->
 
 <p align="center" style="text-align: center;">
-    • Olá , Meu Nome é Renato Soares. 🖤
-</p>	
-
-
-<p align="center" style="text-align: center;">
-    Estudante do Ensino Médio, Conhecimento basico em Pentest, Atualmente estou Estudando Desenvolvimento Web com foco em Back End pela: <a href="https://www.origamid.com/"><strong>Origamid</strong></a> & <a href="https://app.rocketseat.com.br/starter"><strong>Rocketseat</strong></a>
+    Meu Nome é Renato Soares, Estudante do Ensino Médio, Conhecimento basico em Pentest, Atualmente estou Estudando Desenvolvimento Web com foco em Back End pela: <a href="https://www.origamid.com/"><strong>Origamid</strong></a> & <a href="https://app.rocketseat.com.br/starter"><strong>Rocketseat</strong></a>
 </p>
 
 <!-- Studying -->
@@ -46,6 +41,7 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="20" height="20"/></p><p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Giantcard5&show_icons=true" alt="Giantcard5"/>
 </p>
 
