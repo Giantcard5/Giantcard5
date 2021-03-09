@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-    <a href="https://codepen.io/Giantcard5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="Giantcard5" height="20" width="20" /></a>
+    <a href="https://codepen.io/Giantcard5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.js" alt="Giantcard5" height="20" width="20" /></a>
     <a href="https://twitter.com/Giantcard5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Giantcard5" height="20" width="20" /></a>
     <a href="https://www.linkedin.com/in/renato-soares-b5019a1b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Giantcard5" height="20" width="20" /></a>
     <a href="https://instagram.com/Giantcard5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Giantcard5" height="20" width="20" /></a>
