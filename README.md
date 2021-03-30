@@ -17,8 +17,6 @@
 <p align="center" style="text-align: center;">
     Estudando Atualmente:
         <br>
-    <strong> • Pentest Web </strong>
-        <br>
     <strong> • NodeJS </strong>
         <br>
     <strong> • ReactJS </strong>
