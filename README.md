@@ -9,7 +9,7 @@
 <!-- ABOUT OF ME -->
 
 <p align="center" style="text-align: center;">
-    Meu Nome é Renato Soares, Estudante do Ensino Médio, Conhecimento basico em Pentest, Atualmente estou Estudando Back End pela: <a href="https://www.origamid.com/"><strong>Origamid</strong></a> & <a href="https://app.rocketseat.com.br/starter"><strong>Rocketseat</strong></a>
+    Meu Nome é Renato Soares, Estudante do Ensino Médio, Atualmente estou Estudando React e Node pela: <a href="https://www.origamid.com/"><strong>Origamid</strong></a> & <a href="https://app.rocketseat.com.br/starter"><strong>Rocketseat</strong></a>
 </p>
 
 <!-- Studying -->
