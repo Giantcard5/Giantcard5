@@ -33,7 +33,7 @@
     </p>
 <br>
 
-<p align="center">
+<p align="center" style="margin: 0 30px;">
     <a href="https://twitter.com/Giantcard5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Giantcard5" height="20" width="20" /></a>
     <a href="https://www.linkedin.com/in/renato-soares-b5019a1b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Giantcard5" height="20" width="20" /></a>
     <a href="https://instagram.com/Giantcard5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Giantcard5" height="20" width="20" /></a>
