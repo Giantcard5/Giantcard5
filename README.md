@@ -1,21 +1,13 @@
-<!-- HEADER -->
-
-<p align="center">
-    <img src="https://i.pinimg.com/originals/48/9c/b3/489cb3de6b04e534e52f53b4252b0851.jpg" width="px">
-        <br><br>      
-    🖤 Olá, Eu sou um Desenvolvedor.
-</p>
-
 <!-- ABOUT OF ME -->
 
 <p align="center" style="text-align: center;">
-    Meu Nome é Renato Soares, Estudante do Ensino Médio, Atualmente estou Estudando React e Node pela: <a href="https://www.freecodecamp.org/"><strong>FreeCodeCamp</strong></a> & <a href="https://app.rocketseat.com.br/starter"><strong>Rocketseat</strong></a>
+    My Name is Renato Soares, High School Student and Born in Brazil! I am passionate about technology and I always look for new adventures.
 </p>
 
 <!-- Studying -->
 
 <p align="center" style="text-align: center;">
-    Estudando Atualmente:
+    Study Now:
         <br>
     <strong> • NodeJS </strong>
         <br>
@@ -27,7 +19,7 @@
 
 <br>
     <p align="center">
-        "Que seu trabalho seja perfeito para que, mesmo depois de sua morte, permaneça."
+        "May your work be perfect so that, even after your death, you remain."
     <br>
         <strong> • Leonardo da Vinci </strong>
     </p>
