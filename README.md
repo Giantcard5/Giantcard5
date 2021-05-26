@@ -1,3 +1,6 @@
+<!-- PROFILE IMAGE -->
+<img src="https://i.pinimg.com/originals/b2/d0/00/b2d0009cf44329aef5c4a870be76664e.jpg">
+
 <!-- ABOUT OF ME -->
 
 <p align="center" style="text-align: center;">
