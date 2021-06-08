@@ -26,7 +26,7 @@
         • CSS3 <br>
         </strong>
     </p>
-<div><br>
+<div>
 
 #
 
