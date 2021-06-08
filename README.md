@@ -1,7 +1,7 @@
 <!-- Profile Background -->
 <div>
   <img align="center" src="https://th.bing.com/th/id/Rc5e972e4a52e3058594ee4355f93cd1a?rik=mmFPc3w%2bI9BoBA&pid=ImgRaw">
-</div></br>
+</div>
 
 #
 
