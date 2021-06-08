@@ -1,22 +1,21 @@
-<!-- PROFILE IMAGE -->
-<img src="https://i.pinimg.com/originals/b2/d0/00/b2d0009cf44329aef5c4a870be76664e.jpg">
-
 <!-- ABOUT OF ME -->
 
 <p align="center" style="text-align: center;">
     My Name is Renato Soares, High School Student and Born in Brazil! I am passionate about technology and I always look for new adventures.
+    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giantcard5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giantcard5&layout=compact&langs_count=16&theme=dracula"/>
 </p>
 
 <!-- Studying -->
 
 <p align="center" style="text-align: center;">
-    Study Now:
-        <br>
-    <strong> • NodeJS </strong>
-        <br>
-    <strong> • ReactJS </strong>
+  <img align="center" alt="Giantcard5-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Giantcard5-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Giantcard5-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Giantcard5-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Giantcard5-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </p>
-
 
 <!-- QUOTE -->
 
@@ -28,8 +27,11 @@
     </p>
 <br>
 
-<p align="center">
-    <a href="https://twitter.com/Giantcard5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Giantcard5"                height="20" width="20" /></a>
-    <a href="https://www.linkedin.com/in/renato-soares-b5019a1b9/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"          alt="Giantcard5" height="20" width="20" /></a>
-    <a href="https://instagram.com/Giantcard5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Giantcard5"            height="20" width="20" /></a>
-</p>
+<div align="center">
+    <a href="https://www.twitch.tv/giantcard5" target="_blank"><img src="https://img.shields.io/badge/-Twitch-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/Giantcard5" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto: giatcard5.dev@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/renato-soares-b5019a1b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
