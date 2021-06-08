@@ -1,11 +1,11 @@
 <!-- ABOUT OF ME -->
 
-<p align="center" style="text-align: center;">
+<div align="center" style="text-align: center;">
     My Name is Renato Soares, High School Student and Born in Brazil! I am passionate about technology and I always look for new adventures.
     
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giantcard5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giantcard5&layout=compact&langs_count=16&theme=dracula"/>
-</p>
+</div>
 
 <!-- Studying -->
 
