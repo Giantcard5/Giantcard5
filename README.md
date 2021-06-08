@@ -1,15 +1,15 @@
 <!-- ABOUT OF ME -->
 
-<div align="center" style="text-align: center;">
-    My Name is Renato Soares, High School Student and Born in Brazil! I am passionate about technology and I always look for new adventures.
-    
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giantcard5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giantcard5&layout=compact&langs_count=16&theme=dracula"/>
+<div align="center">
+  <a href="https://github.com/giantcard5">
+      
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giantcard5&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <!-- Studying -->
 
-<p align="center" style="text-align: center;">
+<p align="center" style="text-align: center">
   <img align="center" alt="Giantcard5-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Giantcard5-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Giantcard5-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
