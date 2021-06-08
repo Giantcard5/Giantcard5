@@ -16,16 +16,17 @@
 
 <div>
     <p align="center">
-      <strong>Languages & Tools:</strong>
+        <strong>Languages & Tools:</strong>   
+    <br>
+        <strong> 
+        • React <br>
+        • NextJS <br>
+        • Typescript <br>
+        • HTML5 <br>
+        • CSS3 <br>
+        </strong>
     </p>
-    <div align="center">
-        <img align="center" alt="Giantcard5-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-        <img align="center" alt="Giantcard5-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-        <img align="center" alt="Giantcard5-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-        <img align="center" alt="Giantcard5-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        <img align="center" alt="Giantcard5-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    </div></br>
-</div>
+<div><br>
 
 #
 
