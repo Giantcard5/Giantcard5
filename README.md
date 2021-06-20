@@ -47,5 +47,5 @@
     <a href="https://instagram.com/Giantcard5" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/renato-soares-b5019a1b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto: giatcard5.dev@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href = "https://codepen/Giantcard5"><img src="https://img.shields.io/badge/-Codepen-%23333?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
+    <a href = "https://codepen.io/Giantcard5"><img src="https://img.shields.io/badge/-Codepen-%23333?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
 </div>
