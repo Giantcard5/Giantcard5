@@ -12,22 +12,6 @@
   </p>
 </div>
 
-<!-- Languages -->
-
-<div>
-    <p align="center">
-        <strong>Languages & Tools:</strong>   
-    <br>
-        <strong> 
-        • React <br>
-        • NextJS <br>
-        • Typescript <br>
-        • HTML5 <br>
-        • CSS3 <br>
-        </strong>
-    </p>
-<div>
-
 #
 
 <!-- Quote -->
