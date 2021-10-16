@@ -1,4 +1,4 @@
-<img src="./icon.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Giantcard5 Icon">
+<img src="Icon.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Giantcard5 Icon">
 
 <p align="left"> 
   🗻 Olá, meu nome é Renato Soares. Sou <strong>Desenvolvedor de Front-End</strong> e <strong>UI & UX Designer</strong>
