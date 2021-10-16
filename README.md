@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/894609191870812262/898719456501592104/03.png?width=250&height=250" min-width="200px" max-width="200px" width="200px" align="right" alt="Giantcard5 Icon">
+<img src="./icon.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Giantcard5 Icon">
 
 <p align="left"> 
   🗻 Olá, meu nome é Renato Soares. Sou <strong>Desenvolvedor de Front-End</strong> e <strong>UI & UX Designer</strong>
