@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-    <a href="https://instagram.com/ Giantcard5" target="_blank" alt="Instagram">
+    <a href="https://instagram.com/Giantcard5" target="_blank" alt="Instagram">
         <img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
     </a>
     <a href="https://www.linkedin.com/in/renato-soares-b5019a1b9" target="_blank" alt="Linkedin">
