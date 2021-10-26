@@ -26,9 +26,6 @@
     <a href="https://discord.com/users/366743936758185994" alt="Discord">
         <img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://https://discord.gg/pyPznqZzHd"/>
     </a>
-    <a href="mailto: giatcard5.dev@outlook.com" alt="E-Mail">
-        <img src="https://img.shields.io/badge/-EMail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
-    </a>
 </p>
 
 <br>
