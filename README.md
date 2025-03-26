@@ -32,7 +32,7 @@ Sou estudante de **Engenharia de Software (3º semestre)** na [FIAP](https://www
 
 ## 🌐 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=logmein&logoColor=white)](https://www.linkedin.com/in/renato-soares-b5019a1b9)  [![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giantcard5.dev@outlook.com) [![Instagram](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giantcard5.dev@outlook.com) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=logmein&logoColor=white)](https://www.linkedin.com/in/renato-soares-b5019a1b9)  [![Email](https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giantcard5.dev@outlook.com)
 
 ---
 
